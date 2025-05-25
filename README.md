@@ -109,9 +109,3 @@ This project showcases a complete, scalable Airbnb-like platform with a clean ar
 - Clean, maintainable architecture with shared logic
 
 Ideal for recruiters or teams looking for candidates experienced in full-stack development, cross-platform architecture, GraphQL, and DevOps-readiness.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
